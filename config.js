@@ -27,8 +27,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = 'DyLux┃ᴮᴼᵀ' 
 global.author = '@fg98' 
-global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
-global.dygp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
+global.fgig = '▢ Sígueme en WhatsApp\nhttps://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE\n' 
+global.dygp = 'https://chat.whatsapp.com/HvzT09WBkuG9DIa7e4zMuE'
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
 global.fgpyp = 'https://paypal.me/fg98f'
