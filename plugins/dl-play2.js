@@ -50,6 +50,6 @@ if (size.includes('GB')) return m.reply(` ≡  *FG YTDL*\n\n▢ *⚖️Peso* : $
 handler.help = ['play']
 handler.tags = ['dl']
 handler.command = ['play', 'playvid']
-handler.disabled = true
+handler.disabled = false
 
 export default handler
