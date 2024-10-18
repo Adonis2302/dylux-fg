@@ -1,5 +1,5 @@
 
-import yts from 'yt-search'
+import fg from 'api-dylux'
 let handler = async (m, { conn, command, text, usedPrefix }) => {
 	
 	if (!text) throw `✳️ Ingresa el título de una canción\n\n📌Ejemplo *${usedPrefix + command}* Lil Peep hate my life`
